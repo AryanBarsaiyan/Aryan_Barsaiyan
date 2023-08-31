@@ -15,7 +15,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 
   const resumeLink = ()=> {
       return <div style={{ maxWidth: '100%', height:'auto' }} className="d-flex justify-content-center" >
-         <img src="https://res.cloudinary.com/ddkj8wsjy/image/upload/v1690738111/Screenshot_2023-07-30_225741_bwl0yr.png" alt="Resume" ></img>
+         <img src="https://res.cloudinary.com/ddkj8wsjy/image/upload/v1693504842/Screenshot_2023-08-31_232609_kjvqej.png" alt="Resume" ></img>
       </div>
   }
 
